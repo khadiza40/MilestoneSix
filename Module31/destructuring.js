@@ -1,4 +1,4 @@
-// destructuring.js
+// Module31/destructuring.js
 const fish = { id: 58, name: 'Hilsha', Price: 590, phone: '01755861962', adress: 'Chadpur', dress: 'silver' };
 
 const { phone, Price, dress, id } = fish;

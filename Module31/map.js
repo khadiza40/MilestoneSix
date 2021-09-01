@@ -1,4 +1,5 @@
- numbers =[2,3,4,5,6,7];
+//array duplicate using map function 
+numbers =[2,3,4,5,6,7];
 const output = [];
 const doubleIt = number => number*2;
 for(const number of numbers){
